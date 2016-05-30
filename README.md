@@ -1,0 +1,1 @@
+Proyectos escritos de forma personal y profesional. Cada proyecto posee algún tema avanzado en la programación, desde el uso de WPF para interfaces UI Metro, Multihilos, procesos anidados, estructuras de datos, expresiones Lambda, entre otras.
