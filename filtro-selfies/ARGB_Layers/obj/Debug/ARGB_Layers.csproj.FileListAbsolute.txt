@@ -1,0 +1,24 @@
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\ARGB_Layers\ARGB_Layers\ARGB_Layers\obj\Debug\Transparent_layer.exe
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\ARGB_Layers\ARGB_Layers\ARGB_Layers\obj\Debug\Transparent_layer.pdb
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\ARGB_Layers\ARGB_Layers\ARGB_Layers\bin\Debug\Transparent_layer.exe
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\ARGB_Layers\ARGB_Layers\ARGB_Layers\bin\Debug\Transparent_layer.pdb
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\ARGB_Layers\ARGB_Layers\ARGB_Layers\obj\Debug\ResolveAssemblyReference.cache
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\ARGB_Layers\ARGB_Layers\ARGB_Layers\obj\Debug\Transparent_layer.Main.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\ARGB_Layers\ARGB_Layers\ARGB_Layers\obj\Debug\Transparent_layer.Properties.Resources.resources
+I:\C#.Net\C# Programs\Amoozesh\100 Source (2)\200 C# Project\ARGB_Layers\ARGB_Layers\ARGB_Layers\obj\Debug\ARGB_Layers.csproj.GenerateResource.Cache
+G:\C#\soruse\200 C# Project\ARGB_Layers\ARGB_Layers\ARGB_Layers\obj\Debug\Transparent_layer.exe
+G:\C#\soruse\200 C# Project\ARGB_Layers\ARGB_Layers\ARGB_Layers\obj\Debug\Transparent_layer.pdb
+G:\C#\soruse\200 C# Project\ARGB_Layers\ARGB_Layers\ARGB_Layers\bin\Debug\Transparent_layer.exe
+G:\C#\soruse\200 C# Project\ARGB_Layers\ARGB_Layers\ARGB_Layers\bin\Debug\Transparent_layer.pdb
+G:\C#\soruse\200 C# Project\ARGB_Layers\ARGB_Layers\ARGB_Layers\obj\Debug\ResolveAssemblyReference.cache
+G:\C#\soruse\200 C# Project\ARGB_Layers\ARGB_Layers\ARGB_Layers\obj\Debug\Transparent_layer.Main.resources
+G:\C#\soruse\200 C# Project\ARGB_Layers\ARGB_Layers\ARGB_Layers\obj\Debug\Transparent_layer.Properties.Resources.resources
+G:\C#\soruse\200 C# Project\ARGB_Layers\ARGB_Layers\ARGB_Layers\obj\Debug\ARGB_Layers.csproj.GenerateResource.Cache
+C:\Users\Álvaro\Desktop\Proyectos-CSharp\filtro-selfies\ARGB_Layers\obj\Debug\Transparent_layer.exe
+C:\Users\Álvaro\Desktop\Proyectos-CSharp\filtro-selfies\ARGB_Layers\obj\Debug\Transparent_layer.pdb
+C:\Users\Álvaro\Desktop\Proyectos-CSharp\filtro-selfies\ARGB_Layers\bin\Debug\Transparent_layer.exe
+C:\Users\Álvaro\Desktop\Proyectos-CSharp\filtro-selfies\ARGB_Layers\bin\Debug\Transparent_layer.pdb
+C:\Users\Álvaro\Desktop\Proyectos-CSharp\filtro-selfies\ARGB_Layers\obj\Debug\ARGB_Layers.csprojResolveAssemblyReference.cache
+C:\Users\Álvaro\Desktop\Proyectos-CSharp\filtro-selfies\ARGB_Layers\obj\Debug\Transparent_layer.Main.resources
+C:\Users\Álvaro\Desktop\Proyectos-CSharp\filtro-selfies\ARGB_Layers\obj\Debug\Transparent_layer.Properties.Resources.resources
+C:\Users\Álvaro\Desktop\Proyectos-CSharp\filtro-selfies\ARGB_Layers\obj\Debug\ARGB_Layers.csproj.GenerateResource.Cache

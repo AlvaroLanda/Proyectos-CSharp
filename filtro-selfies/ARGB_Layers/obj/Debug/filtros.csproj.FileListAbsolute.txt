@@ -1,0 +1,7 @@
+C:\Users\Álvaro\Desktop\Proyectos-CSharp\filtro-selfies\ARGB_Layers\bin\Debug\Transparent_layer.exe
+C:\Users\Álvaro\Desktop\Proyectos-CSharp\filtro-selfies\ARGB_Layers\bin\Debug\Transparent_layer.pdb
+C:\Users\Álvaro\Desktop\Proyectos-CSharp\filtro-selfies\ARGB_Layers\obj\Debug\Transparent_layer.Main.resources
+C:\Users\Álvaro\Desktop\Proyectos-CSharp\filtro-selfies\ARGB_Layers\obj\Debug\Transparent_layer.Properties.Resources.resources
+C:\Users\Álvaro\Desktop\Proyectos-CSharp\filtro-selfies\ARGB_Layers\obj\Debug\filtros.csproj.GenerateResource.Cache
+C:\Users\Álvaro\Desktop\Proyectos-CSharp\filtro-selfies\ARGB_Layers\obj\Debug\Transparent_layer.exe
+C:\Users\Álvaro\Desktop\Proyectos-CSharp\filtro-selfies\ARGB_Layers\obj\Debug\Transparent_layer.pdb
