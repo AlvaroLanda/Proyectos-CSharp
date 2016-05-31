@@ -1,0 +1,7 @@
+obj\Debug\Chess.exe
+obj\Debug\Chess.pdb
+bin\Debug\Chess.exe
+bin\Debug\Chess.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Chess.ChessForm.resources
+obj\Debug\Chess.csproj.GenerateResource.Cache
